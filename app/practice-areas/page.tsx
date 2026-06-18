@@ -19,9 +19,14 @@ export default function PracticeAreasHubPage() {
       <PageJsonLd breadcrumbs={crumbs} />
       <PageShell
         title="Practice Areas"
-        subtitle="Four commercial and arbitration practice areas where political risk expert evidence is essential for UK and international counsel."
+        subtitle="Four practice areas where political risk expert evidence is essential, across ICSID, LCIA, ICC, UNCITRAL, and national court proceedings worldwide."
         breadcrumbs={crumbs}
       >
+        <p className="mb-8 max-w-3xl text-[#374151] leading-relaxed">
+          Each practice area covers disputes arising in any jurisdiction. Expert witnesses are
+          matched to the host state, sanctions regime, or insured peril at issue, not to a fixed
+          regional focus.
+        </p>
         <CardGrid
           items={practiceAreas.map((p) => ({
             title: p.title,

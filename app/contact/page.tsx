@@ -30,6 +30,12 @@ export default function ContactPage() {
         subtitle="Complete the form below and we will match your matter with a qualified political risk expert witness."
         breadcrumbs={crumbs}
       >
+        <p className="mb-8 max-w-3xl text-[#374151] leading-relaxed">
+          We handle instructions for disputes in any jurisdiction and forum. Specify the countries
+          involved, the arbitration or court seat, and the political risk at issue in the form below.
+          Expert matching is based on regional or thematic expertise required by your matter, not on
+          a predetermined geographic focus. Response within one business day.
+        </p>
         <div className="grid gap-10 lg:grid-cols-3">
           <div className="lg:col-span-2">
             <ContactForm />

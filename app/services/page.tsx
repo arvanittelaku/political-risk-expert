@@ -23,9 +23,14 @@ export default function ServicesPage() {
       />
       <PageShell
         title="Political Risk Expert Witness Services"
-        subtitle="Eight specialist expert witness services for UK international arbitration counsel, commercial litigation solicitors, and political risk insurance counsel."
+        subtitle="Eight specialist expert witness services for arbitration counsel, commercial litigators, and political risk insurance counsel in any jurisdiction."
         breadcrumbs={crumbs}
       >
+        <p className="mb-8 max-w-3xl text-[#374151] leading-relaxed">
+          Services are available for matters seated in London, Paris, Geneva, Singapore, Washington,
+          or other forums. Analysis is impartial and tailored to the countries and risk types
+          relevant to your dispute.
+        </p>
         <CardGrid
           items={services.map((s) => ({
             title: s.title,

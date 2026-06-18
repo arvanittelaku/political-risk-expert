@@ -2,7 +2,7 @@ export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
   "https://www.politicalriskexpert.com";
 export const SITE_NAME = "Political Risk Expert";
-export const SITE_EMAIL = "info@politicalriskexpert.com";
+export const SITE_EMAIL = "cases@politicalriskexpert.com";
 export const LINKEDIN_URL = "https://www.linkedin.com/company/politicalriskexpert";
 
 export const COLORS = {

@@ -20,6 +20,13 @@ export default function QualificationsPage() {
         subtitle="The credentials and expertise counsel should expect when instructing a political risk expert witness for arbitration and litigation."
         breadcrumbs={crumbs}
       >
+        <p className="mb-8 max-w-3xl text-[#374151] leading-relaxed">
+          Qualifications for political risk expert witnesses are assessed against the requirements of
+          the specific dispute, not a single national market. Experts may testify under CPR Part 35 in
+          English courts, IBA Rules in LCIA or ICC arbitrations, or ICSID procedures, depending on
+          the forum. Regional depth and thematic breadth are both valid profiles for international
+          matters.
+        </p>
         <section className="mb-10">
           <h2 className="text-xl font-bold text-[#1E2D45]">Core Credentials</h2>
           <p className="mt-4 text-[#374151] leading-relaxed">

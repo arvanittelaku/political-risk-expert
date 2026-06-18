@@ -9,7 +9,8 @@ export function CTASection() {
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-[#374151]">
           Independent expert evidence for investment treaty arbitration, political risk insurance
-          claims, sanctions disputes, and commercial arbitration. Response within 1 business day.
+          claims, sanctions disputes, and commercial arbitration in any jurisdiction. Impartial,
+          jurisdiction-neutral analysis. Response within 1 business day.
         </p>
         <Link
           href="/contact"

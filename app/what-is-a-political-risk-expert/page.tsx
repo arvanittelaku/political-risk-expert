@@ -20,7 +20,7 @@ export default function WhatIsPage() {
       <PageJsonLd breadcrumbs={crumbs} />
       <PageShell
         title="What Is a Political Risk Expert Witness?"
-        subtitle="The role of political risk expert witnesses in UK and international arbitration and litigation."
+        subtitle="The role of political risk expert witnesses in international arbitration and litigation across all jurisdictions."
         breadcrumbs={crumbs}
       >
         <p className="mb-4 text-[#374151] leading-relaxed">
@@ -31,11 +31,18 @@ export default function WhatIsPage() {
           regulatory changes that are central to the dispute.
         </p>
         <p className="mb-4 text-[#374151] leading-relaxed">
-          Political risk expert witnesses serve UK international arbitration counsel, commercial
-          litigation solicitors, and political risk insurance counsel. They are instructed in
-          investment treaty arbitration (ICSID, LCIA, ICC, UNCITRAL), political risk insurance
-          coverage disputes, sanctions-related contract arbitrations, and commercial disputes with
-          political risk elements.
+          Political risk expert witnesses serve arbitration counsel, commercial litigation
+          solicitors, and political risk insurance counsel worldwide. They are instructed in
+          investment treaty arbitration (ICSID, LCIA, ICC, UNCITRAL, and other institutions),
+          political risk insurance coverage disputes, sanctions-related contract arbitrations, and
+          commercial disputes with political risk elements, regardless of where the underlying
+          investment or contract is located.
+        </p>
+        <p className="mb-4 text-[#374151] leading-relaxed">
+          Expert evidence is jurisdiction-neutral: the witness analyses the political and regulatory
+          facts of the dispute, not the nationality of the parties. Country specialists are matched to
+          the host state or region at issue; thematic specialists address cross-border sanctions,
+          resource nationalism, or political violence where multiple jurisdictions are relevant.
         </p>
         <p className="mb-4 text-[#374151] leading-relaxed">
           The expert&apos;s role is to assist the tribunal or court with objective analysis based on

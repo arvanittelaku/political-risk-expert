@@ -20,15 +20,43 @@ export default function HomePage() {
     <>
       <PageHero
         title="Political Risk Expert Witness UK"
-        subtitle="Independent expert evidence for investment treaty arbitration, political risk insurance claims, sanctions disputes, and commercial arbitration. Serving UK international arbitration counsel and commercial litigation solicitors."
+        subtitle="Independent expert evidence for investment treaty arbitration, political risk insurance claims, sanctions disputes, and commercial arbitration. Serving counsel and solicitors in the UK and across international forums."
       />
+
+      <section className="border-b border-[#D0D9E8] bg-white py-12 md:py-14">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-[#1E2D45]">
+            International Scope, Jurisdiction-Neutral Analysis
+          </h2>
+          <p className="mt-4 max-w-3xl text-[#374151] leading-relaxed">
+            Political Risk Expert is not limited to a single country or region. We connect instructing
+            parties with qualified political risk expert witnesses for disputes arising in any
+            jurisdiction, whether the forum is ICSID, LCIA, ICC, UNCITRAL, SIAC, HKIAC, or national
+            courts in the UK, Europe, North America, Africa, Latin America, the Middle East, or
+            Asia-Pacific.
+          </p>
+          <p className="mt-4 max-w-3xl text-[#374151] leading-relaxed">
+            Expert matching is driven by the facts of the matter: the host state or countries
+            involved, the risk type at issue, and the procedural framework. Experts provide impartial,
+            objective analysis of government conduct, sanctions regimes, political violence, and
+            regulatory change without advocacy for any state, investor, or insurer.
+          </p>
+          <p className="mt-4 max-w-3xl text-[#374151] leading-relaxed">
+            UK references on this site reflect a major centre for international arbitration and
+            litigation, not an exclusive geographic focus. The same political risk issues arise in
+            investor-state claims from West Africa to Central Asia, sanctions disputes under
+            overlapping OFAC, OFSI, and EU regimes, and political risk insurance coverage disputes
+            seated in London, Paris, Singapore, or New York.
+          </p>
+        </div>
+      </section>
 
       <section className="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
         <h2 className="text-2xl font-bold text-[#1E2D45]">Practice Areas</h2>
         <p className="mt-3 max-w-3xl text-[#374151]">
           Political risk expert witnesses provide independent analysis of geopolitical, regulatory,
-          and policy risks for the four principal forums where political risk evidence is required
-          in UK and international proceedings.
+          and policy risks across investment treaty, insurance, sanctions, and commercial disputes
+          in forums worldwide.
         </p>
         <div className="mt-8">
           <CardGrid

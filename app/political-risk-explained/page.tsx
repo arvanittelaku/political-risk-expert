@@ -33,9 +33,17 @@ export default function PoliticalRiskExplainedPage() {
       />
       <PageShell
         title="Political Risk in Litigation and Arbitration: The Complete UK Guide"
-        subtitle="A comprehensive guide to political risk expert evidence for UK international arbitration counsel and commercial litigation solicitors."
+        subtitle="A comprehensive guide to political risk expert evidence for arbitration counsel and commercial litigators in the UK and internationally."
         breadcrumbs={crumbs}
       >
+        <p className="mb-10 max-w-3xl text-[#374151] leading-relaxed">
+          This guide covers political risk expert evidence across all major dispute forums. Examples
+          involving UK law, UK investor-state arbitration, or London-seated proceedings reflect
+          current developments in a leading arbitration centre, not an exclusive scope. The same
+          principles apply to ICSID claims in Africa, sanctions arbitrations seated in Paris or
+          Singapore, and political risk insurance disputes under policies governed by English or
+          New York law.
+        </p>
         <section className="mb-10">
           <h2 className="text-xl font-bold text-[#1E2D45]">
             What Is Political Risk in a Legal Context?

@@ -117,10 +117,11 @@ export function Footer() {
             </ul>
           </div>
         </div>
-        <p className="mt-10 border-t border-white/20 pt-6 text-center text-xs text-white/60">
-          Political Risk Expert connects UK international arbitration counsel, commercial litigation
-          solicitors, and political risk insurance counsel with qualified political risk expert
-          witnesses. We are not a law firm and do not provide legal advice.
+        <p className="mt-10 border-t border-white/20 pt-6 text-center text-xs leading-relaxed text-white/60">
+          Political Risk Expert connects arbitration counsel, commercial litigation solicitors, and
+          political risk insurance counsel with qualified political risk expert witnesses for matters
+          in any jurisdiction. Expert analysis is impartial and jurisdiction-neutral. We are not a
+          law firm and do not provide legal advice.
         </p>
         <p className="mt-2 flex flex-wrap items-center justify-center gap-x-3 gap-y-2 text-center text-xs text-white/50">
           <Link href="/privacy" className="inline-flex min-h-[44px] items-center hover:text-white">

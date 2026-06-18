@@ -20,6 +20,13 @@ export default function HowToInstructPage() {
         subtitle="Practical guidance for arbitration counsel and solicitors on instructing political risk expert witnesses."
         breadcrumbs={crumbs}
       >
+        <p className="mb-8 max-w-3xl text-[#374151] leading-relaxed">
+          Instruction requirements depend on the forum and the countries at issue, not on where your
+          firm is based. Whether the dispute is seated in London, Geneva, Washington, or Singapore,
+          provide the expert with the treaty or contract, the regulatory documents, and a clear
+          statement of the political risk question. We match experts by the jurisdiction and risk
+          type your matter requires.
+        </p>
         <section className="mb-10">
           <h2 className="text-xl font-bold text-[#1E2D45]">Investment Treaty Arbitration</h2>
           <ul className="mt-4 list-disc space-y-2 pl-5 text-[#374151]">
